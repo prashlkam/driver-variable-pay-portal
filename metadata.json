@@ -1,0 +1,6 @@
+{
+  "name": "Fleet Variable Pay Portal",
+  "description": "Variable Pay Calculator and Ledger for Commercial Fleet Drivers",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
